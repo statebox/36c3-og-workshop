@@ -1,5 +1,7 @@
 # 36c3 workshop on Open Games
 
+> Workshop @ RIAT, Hall 2 ~ `Monday 14:30 - 16:00`
+
 Open Games is a compositional framework for game theory.
 
 It uses the mathematical theory of (monoidal) categories to describe games.
