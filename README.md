@@ -14,6 +14,7 @@ Elements of these things (called morphism) can be expressed as diagrams:
 
 We can use [tools developed at Statebox](https://edit.statebox.cloud) to build these diagrams and export Haskell `Arrow` expressions.
 
-There is a [backend written in Haskell](https://github.com/jules-hedges/open-games-hs) that can do computations based on these diagrams / expressions.
+There is a
+[backend written in Haskell](https://github.com/jules-hedges/open-games-hs) that can do game theoretic computations based on these diagrams / expressions.
 
-In this workshop we will explain what this does and play around with the backend.
+In this workshop we will explain what this does and play around with the backend, and explain its benefits and limitations.
