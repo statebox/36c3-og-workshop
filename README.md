@@ -17,3 +17,13 @@ We can use [tools developed at Statebox](https://edit.statebox.cloud) to build t
 There is a [backend written in Haskell](https://github.com/jules-hedges/open-games-hs) that can do computations based on these diagrams / expressions.
 
 In this workshop we will explain what this does and play around with the backend.
+
+## Outline
+
+- Explain general idea
+  > Compositional game theory using category theory
+  >
+  > Applications: protocol verification
+- what is a category (example)
+- show monoidal category (in editor)
+- explain open games
