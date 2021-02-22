@@ -10,7 +10,7 @@ An introduction to category theory can be found in the [Statebox Monograph](http
 
 Elements of these things (called morphism) can be expressed as diagrams:
 
-[![](lemon-game-diagram.png)](https://edit.statebox.cloud/#pixels=Nq---U%0ANqSp-U%0ANqSpBU%0ANqS--U&context=Nature%3A%20-%3E%20Q%0Aq%3A%20Q%20-%3E%20Q%20Q%0Ap%3A%20P%20-%3E%20P%20P%0ASeller%3A%20Q%20-%3E%20P%20R*%0ABuyer%3A%20P%20-%3E%20B%20R*%0AUtility%3A%20Q%20P%20B%20R*%20R*%20-%3E%0A)
+[![](lemon-game-diagram.png)](https://edit.statebox.cloud/#pixels=N%CE%B4---U%0AN%CE%B4S%CE%B4-U%0AN%CE%B4S%CE%B4BU%0AN%CE%B4S--U%0A&context=Nature%3A%20-%3E%20Q%0ASeller%3A%20Q%20-%3E%20P%20R*%0ABuyer%3A%20P%20-%3E%20B%20R*%0AUtility%3A%20Q%20P%20B%20R*%20R*%20-%3E%0A)
 
 We can use [tools developed at Statebox](https://edit.statebox.cloud) to build these diagrams and export Haskell `Arrow` expressions.
 
